@@ -16,7 +16,6 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-Mishra2006&show_icons=true&theme=dark&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Mishra2006&layout=compact&theme=dark)
 
  
