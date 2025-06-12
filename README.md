@@ -1,6 +1,6 @@
 # About Me:
 - 👋 Hi, I’m Anurag Mishra
-- 🌐 I’m interested in Al , Ml , DSA and Web Designing
+- 🌐 I’m interested in  DSA and Web Designing,Al , Ml
 - 📖 I’m currently learning Web Desiging and DSA
 - 💡 Fun fact: Code do Ctrl  + R of my boring life
 
