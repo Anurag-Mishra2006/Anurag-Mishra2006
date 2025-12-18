@@ -82,13 +82,14 @@ I’m deeply interested in **Data Structures & Algorithms** and **Web Developmen
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Mishra2006&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Mishra2006&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Mishra2006&show_icons=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Mishra2006&layout=compact&langs_count=8&hide_border=true" height="165" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Mishra2006&hide_border=true" height="165" />
 </p>
+
 
 ---
 
