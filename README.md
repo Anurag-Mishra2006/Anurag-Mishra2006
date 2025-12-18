@@ -1,28 +1,88 @@
-# About Me:
-- 👋 Hi, I’m Anurag Mishra
-- 🌐 I’m interested in  DSA and Web development.
-- 📖 I’m currently learning DSA and enjoying web development.
-- 💡 Fun fact: Code do Ctrl  + R of my boring life
+# Hello there, human! 👋
 
-## 🌐 Languages:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/-C-61DAFB?style=for-the-badge&logo=c&logoColor=black)
+I’m **Anurag Mishra** — a computer science student who’s turning curiosity into code.
 
-## 💻 IDEs:
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I’m deeply interested in **Data Structures & Algorithms** and **Web Development**, and I enjoy building things while learning how the fundamentals actually work under the hood.
 
- ## 📊 GitHub Stats:
+---
 
-### 1. Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Mishra2006&layout=compact&theme=radical&hide=c&hide_title=true)
+## 👨‍💻 What I Do
 
+* 🧠 Learn and practice **DSA** to strengthen problem‑solving skills
+* 🌐 Build full‑stack projects using **JavaScript & Node.js**
+* 🧪 Experiment with backend concepts like **authentication, APIs, and databases**
+* 🐧 Daily drive **Linux (Ubuntu)** for development
 
-### 2. GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Mishra2006&theme=radical)
- 
+> I believe consistency beats motivation — code is my Ctrl + R for life.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+</p>
+
+**Web**
+
+* HTML5, CSS3
+* Node.js
+* React (learning & building)
+* MongoDB
+
+**Tools & Environment**
+
+* Git & GitHub
+* Postman (API testing & debugging)
+* Cloudinary (media storage & delivery)
+* VS Code
+* Linux (Ubuntu)
+
+---
+
+## 🚀 Current Focus
+
+* Mastering **DSA** alongside real implementations
+* Building backend projects with **Node.js & Express**
+* Understanding **authentication (JWT), REST APIs, and databases**
+* Writing cleaner, more readable code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Mishra2006&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Mishra2006&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Mishra2006&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📌 Projects & Learning
+
+* 🔐 Auth systems with JWT
+* ⚙️ Backend APIs
+* 📚 Learning projects (no tutorial copy‑paste)
+
+> I value **learning in public** and improving one commit at a time.
+
+---
+
+## 🌱 Philosophy
+
+* Open to feedback
+* Focused on fundamentals
+* Building before perfection
+
+---
+
+Thanks for stopping by! ⭐ Feel free to explore my repositories and follow my journey.
