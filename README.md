@@ -110,5 +110,9 @@ I’m deeply interested in **Data Structures & Algorithms** and **Web Developmen
 * Building before perfection
 
 ---
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+---
 
 Thanks for stopping by! ⭐ Feel free to explore my repositories and follow my journey.
