@@ -3,9 +3,12 @@
 I’m **Anurag Mishra** — a computer science student who’s turning curiosity into code.
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="250" />
-</p>
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"
+    height="320"
+  />
+</div>
 
 ---
 
