@@ -1,6 +1,14 @@
 # Hello there, human! 👋
 
 I’m **Anurag Mishra** — a computer science student who’s turning curiosity into code.
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="250" />
+</p>
+
+---
+
 
 I’m deeply interested in **Data Structures & Algorithms** and **Web Development**, and I enjoy building things while learning how the fundamentals actually work under the hood.
 
@@ -50,7 +58,7 @@ I’m deeply interested in **Data Structures & Algorithms** and **Web Developmen
 </p>
 
 ---
-## 🛠 Tech Stack
+
 
 **Web**
 - HTML5, CSS3
