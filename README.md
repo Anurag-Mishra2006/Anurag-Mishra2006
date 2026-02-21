@@ -97,9 +97,9 @@ I’m deeply interested in **Data Structures & Algorithms** and **Web Developmen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Mishra2006&layout=compact&langs_count=8&hide_border=true" height="165" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Mishra2006&hide_border=true" height="165" />
-</p>
+</p> -->
 
 
 ---
