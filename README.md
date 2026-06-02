@@ -102,8 +102,9 @@ I’m deeply interested in **Data Structures & Algorithms** and **Web Developmen
 * Open to feedback
 * Focused on fundamentals
 * Building before perfection
-
 ---
+
+<!--
 ## 📈 Contribution Graph
 <div align="center">
   <picture>
@@ -111,6 +112,5 @@ I’m deeply interested in **Data Structures & Algorithms** and **Web Developmen
     <img src="https://raw.githubusercontent.com/Anurag-Mishra2006/Anurag-Mishra2006/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
----
+-->
 Thanks for stopping by! ⭐ Feel free to explore my repositories and follow my journey.
